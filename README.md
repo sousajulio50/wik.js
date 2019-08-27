@@ -1,0 +1,2 @@
+# wik.js
+wiki.js
